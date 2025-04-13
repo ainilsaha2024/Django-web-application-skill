@@ -21,7 +21,7 @@ This repository is created to demonstrate the development of a web application u
 
 - **Backend:** Django (Python)  
 - **Frontend:** HTML5, CSS3, Bootstrap  
-- **Database:** SQLite (default) or PostgreSQL (for production)  
+- **Database:** SQLite (default) or PostgreSQL (for production)  and MySQL 
 - **IDE:** Visual Studio Code / PyCharm  
 - **Others:** Django Admin, Django Forms, Static Files, etc.
 
